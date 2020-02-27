@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ico.hogar;
+package ico.fes.hogar;
 
-import ico.diseño.Escalera;
-import ico.diseño.Sala;
-import ico.diseño.Ventana;
+import ico.fes.diseño.Escalera;
+import ico.fes.diseño.Sala;
+import ico.fes.diseño.Ventana;
 
 /**
  *
